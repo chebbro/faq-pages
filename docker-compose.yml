@@ -2,7 +2,7 @@ version: '3'
 
 services:
   jekyll:
-    container_name: f1stats_github
+    container_name: faq-pages_github
     image: jekyll/jekyll:latest
     command: jekyll serve --watch --force_polling --verbose
     volumes:
