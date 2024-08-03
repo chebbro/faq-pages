@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1243143!"
+title:  "Mount fstab"
 date:   2024-08-03 12:15:00 -0400
 categories: linux
 ---
