@@ -1,7 +1,7 @@
 ---
 title:  "Mount fstab"
 date:   2024-08-02 12:16:12 -0400
-categories: linux mount fstab
+categories:   fstab
 ---
 
 Подключение сетевых директорий с помощью fstab
