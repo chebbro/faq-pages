@@ -2,7 +2,7 @@
 layout: post
 title:  "Mount fstab"
 date:   2024-08-03 12:15:00 -0400
-categories: linux
+categories: linux mount fstab
 ---
 
 1. Создайте файл с авторизационными данными:
